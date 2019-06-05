@@ -1,4 +1,4 @@
-<p align="center"><img alt="金戋博客" src="https://avatars2.githubusercontent.com/u/23192332?s=400&u=b7d8bf059bc6bdf08d8330f3c8000ef924ed2d7e&v=4"></p><h2 align="center">
+<p align="center"><img alt="金戋博客" src="http://a3.qpic.cn/psb?/V13XnJ8P0VPkoq/07Svg6WEKKAb2gbCXoZ3gLBSrLQ0lciqz9ofEylO4G8!/b/dL4AAAAAAAAA"></p><h2 align="center">
 金戋博客
 </h2>
 
@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [图标](https://www.jinjianh.com/articles/2019/06/05/1559723499236.html)
+* [nginx反向代理配置solo，并实现https访问](https://www.jinjianh.com/articles/2019/06/05/1559719810531.html)
+* [http升级为https](https://www.jinjianh.com/articles/2019/06/05/1559717163020.html)
 * [CSS/Javascript实现Word Clock](https://www.jinjianh.com/articles/2019/06/02/1559477290334.html)
 * [关于我](https://www.jinjianh.com/about.html)
 * [Docker从零开始安装开源博客solo](https://www.jinjianh.com/first.html)
