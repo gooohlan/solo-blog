@@ -1,4 +1,4 @@
-<p align="center"><img alt="金戋博客" src="https://www.jinjianh.com/images/yd.png"></p><h2 align="center">
+<p align="center"><img alt="金戋博客" src="https://www.jinjianh.com/img/yd.png"></p><h2 align="center">
 金戋博客
 </h2>
 
