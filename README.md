@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.jinjianh.com/my-github-repos)
+* [go语言圣经练习解答--第三章(本系列不定时更新)](https://www.jinjianh.com/articles/2019/06/10/1560159392016.html)
+* [未来的路](https://www.jinjianh.com/articles/2019/06/07/1559921813174.html)
 * [nginx反向代理配置solo，并实现https访问](https://www.jinjianh.com/articles/2019/06/05/1559719810531.html)
 * [http升级为https](https://www.jinjianh.com/articles/2019/06/05/1559717163020.html)
 * [CSS/Javascript实现Word Clock](https://www.jinjianh.com/articles/2019/06/02/1559477290334.html)
