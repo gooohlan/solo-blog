@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [【go语言圣经】练习答案 -- 第四章(更新中)](https://www.jinjianh.com/articles/2019/06/12/1560331304695.html)
 * [【go语言圣经】练习答案--目录篇(不定时持续更新中)](https://www.jinjianh.com/articles/2019/06/12/1560321174820.html)
 * [Docker导出mysql数据](https://www.jinjianh.com/articles/2019/06/11/1560267833958.html)
 * [【go语言圣经】练习答案 -- 第三章](https://www.jinjianh.com/articles/2019/06/10/1560159392016.html)
