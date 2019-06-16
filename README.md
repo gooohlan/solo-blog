@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.jinjianh.com/my-github-repos)
 * [【go 语言圣经】练习答案 -- 目录篇 (不定时持续更新中)](https://www.jinjianh.com/articles/2019/06/16/1560663440490.html)
 * [Docker导出mysql数据](https://www.jinjianh.com/articles/2019/06/11/1560267833958.html)
 * [go 语言圣经练习解答 -- 第三章 (本系列不定时更新)](https://www.jinjianh.com/articles/2019/06/10/1560159392016.html)
