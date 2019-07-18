@@ -1,4 +1,4 @@
-<p align="center"><img alt="金戋博客" src="https://www.jinjianh.com/img/yd.png"></p><h2 align="center">
+<p align="center"><img alt="金戋博客" src="https://img.hacpai.com/avatar/1559274898016_1560137432491.png"></p><h2 align="center">
 金戋博客
 </h2>
 
@@ -10,18 +10,18 @@
 
 ### 最新
 
-* [go 语言圣经练习解答 -- 第四章 (更新中)](https://www.jinjianh.com/articles/2019/06/12/1560331304695.html)
-* [leetcode--两数之和](https://www.jinjianh.com/articles/2019/07/16/1563261472913.html)
-* [我在 GitHub 上的开源项目](https://www.jinjianh.com/my-github-repos)
-* [【go 语言圣经】练习答案 -- 目录篇 (不定时持续更新中)](https://www.jinjianh.com/articles/2019/06/16/1560663440490.html)
-* [Docker导出mysql数据](https://www.jinjianh.com/articles/2019/06/11/1560267833958.html)
-* [go 语言圣经练习解答 -- 第三章](https://www.jinjianh.com/articles/2019/06/10/1560159392016.html)
-* [未来的路](https://www.jinjianh.com/articles/2019/06/07/1559921813174.html)
-* [nginx反向代理配置solo，并实现https访问](https://www.jinjianh.com/articles/2019/06/05/1559719810531.html)
-* [http升级为https](https://www.jinjianh.com/articles/2019/06/05/1559717163020.html)
-* [CSS/Javascript实现Word Clock](https://www.jinjianh.com/articles/2019/06/02/1559477290334.html)
-* [关于我](https://www.jinjianh.com/about)
-* [Docker从零开始安装开源博客solo](https://www.jinjianh.com/first.html)
+* [go 语言圣经练习解答 -- 第四章 (更新中)](http://www.jinjianh.com/articles/2019/06/12/1560331304695.html)
+* [leetcode--两数之和](http://www.jinjianh.com/articles/2019/07/16/1563261472913.html)
+* [我在 GitHub 上的开源项目](http://www.jinjianh.com/my-github-repos)
+* [【go 语言圣经】练习答案 -- 目录篇 (不定时持续更新中)](http://www.jinjianh.com/articles/2019/06/16/1560663440490.html)
+* [Docker导出mysql数据](http://www.jinjianh.com/articles/2019/06/11/1560267833958.html)
+* [go 语言圣经练习解答 -- 第三章](http://www.jinjianh.com/articles/2019/06/10/1560159392016.html)
+* [未来的路](http://www.jinjianh.com/articles/2019/06/07/1559921813174.html)
+* [nginx反向代理配置solo，并实现https访问](http://www.jinjianh.com/articles/2019/06/05/1559719810531.html)
+* [http升级为https](http://www.jinjianh.com/articles/2019/06/05/1559717163020.html)
+* [CSS/Javascript实现Word Clock](http://www.jinjianh.com/articles/2019/06/02/1559477290334.html)
+* [关于我](http://www.jinjianh.com/about)
+* [Docker从零开始安装开源博客solo](http://www.jinjianh.com/first.html)
 
 
 
