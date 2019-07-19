@@ -10,10 +10,10 @@
 
 ### 最新
 
-* [go 语言圣经练习解答 -- 第四章 (更新中)](http://www.jinjianh.com/articles/2019/06/12/1560331304695.html)
-* [leetcode--两数之和](http://www.jinjianh.com/articles/2019/07/16/1563261472913.html)
+* [go 语言圣经练习解答 -- 第四章 (关闭)](http://www.jinjianh.com/articles/2019/06/12/1560331304695.html)
+* [日刷leetcode--简单版](http://www.jinjianh.com/articles/2019/07/16/1563261472913.html)
 * [我在 GitHub 上的开源项目](http://www.jinjianh.com/my-github-repos)
-* [【go 语言圣经】练习答案 -- 目录篇 (不定时持续更新中)](http://www.jinjianh.com/articles/2019/06/16/1560663440490.html)
+* [【go 语言圣经】练习答案 -- 目录篇 (关闭)](http://www.jinjianh.com/articles/2019/06/16/1560663440490.html)
 * [Docker导出mysql数据](http://www.jinjianh.com/articles/2019/06/11/1560267833958.html)
 * [go 语言圣经练习解答 -- 第三章](http://www.jinjianh.com/articles/2019/06/10/1560159392016.html)
 * [未来的路](http://www.jinjianh.com/articles/2019/06/07/1559921813174.html)
