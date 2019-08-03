@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [算法的时间复杂度计算](https://www.jinjianh.com/articles/2019/08/03/1564826524260.html)
 * [《追风筝的人》阅读笔记](https://www.jinjianh.com/articles/2019/07/30/1564419665414.html)
 * [日刷leetcode--简单版（二）](https://www.jinjianh.com/leetcode2.html)
 * [日刷leetcode--简单版系列（目录篇）](https://www.jinjianh.com/leetcode.html)
