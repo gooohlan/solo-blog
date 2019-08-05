@@ -24,7 +24,6 @@
 * [nginx反向代理配置solo，并实现https访问](https://www.jinjianh.com/articles/2019/06/05/1559719810531.html)
 * [http升级为https](https://www.jinjianh.com/articles/2019/06/05/1559717163020.html)
 * [CSS/Javascript实现Word Clock](https://www.jinjianh.com/articles/2019/06/02/1559477290334.html)
-* [关于我](https://www.jinjianh.com/about)
 * [Docker从零开始安装开源博客solo](https://www.jinjianh.com/first.html)
 
 
