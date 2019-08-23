@@ -10,6 +10,11 @@
 
 ### 最新
 
+* [《天才在左，疯子在右》章节摘录](https://www.jinjianh.com/articles/2019/08/23/1566551996115.html)
+* [《天才在左，疯子在右》阅读笔记](https://www.jinjianh.com/articles/2019/08/23/1566551837849.html)
+* [带密码文章测试](https://www.jinjianh.com/diary)
+* [新皮肤 solo-nexmoe](https://www.jinjianh.com/articles/2019/08/23/1566468138289.html)
+* [solo-nexmoe 图标详解](https://www.jinjianh.com/articles/2019/08/23/1566548785550.html)
 * [日刷leetcode--简单版（三）](https://www.jinjianh.com/leetcode3.html)
 * [20190809 TGIF](https://www.jinjianh.com/articles/2019/08/09/1565315193270.html)
 * [从零开始安装solo博客](https://www.jinjianh.com/articles/2019/08/06/1565021931775.html)
