@@ -1,15 +1,16 @@
-<p align="center"><img alt="金戋博客" src="https://img.hacpai.com/avatar/1559274898016_1560137432491.png"></p><h2 align="center">
-金戋博客
+<p align="center"><img alt="墨殇的技术博客" src="https://img.hacpai.com/file/2019/08/%E5%9C%86%E5%BA%95-4f20ebb2.png?imageView2/2/interlace/1/format/webp"></p><h2 align="center">
+墨殇的技术博客
 </h2>
 
-<h4 align="center">凡打不倒我的，必使我强大！！！</h4>
-<p align="center"><a title="金戋博客" target="_blank" href="https://github.com/JinJianh/solo-blog"><img src="https://img.shields.io/github/last-commit/JinJianh/solo-blog.svg?style=flat-square&color=FF9900"></a>
-<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/JinJianh/solo-blog"><img src="https://img.shields.io/github/repo-size/JinJianh/solo-blog.svg?style=flat-square"></a>
+<h4 align="center">凡打不倒我的，必使我强大！！！—— 墨殇的技术博客</h4>
+<p align="center"><a title="墨殇的技术博客" target="_blank" href="https://github.com/InkDP/solo-blog"><img src="https://img.shields.io/github/last-commit/InkDP/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/InkDP/solo-blog"><img src="https://img.shields.io/github/repo-size/InkDP/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/JinJianh/solo-blog.svg"></a></p>
+<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/InkDP/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [博客更名](https://www.jinjianh.com/InkDP)
 * [《天才在左，疯子在右》章节摘录](https://www.jinjianh.com/articles/2019/08/23/1566551996115.html)
 * [《天才在左，疯子在右》阅读笔记](https://www.jinjianh.com/articles/2019/08/23/1566551837849.html)
 * [新皮肤 solo-nexmoe](https://www.jinjianh.com/articles/2019/08/23/1566468138289.html)
