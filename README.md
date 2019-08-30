@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [《诸神的传说：希腊神话故事》读中笔记](https://www.jinjianh.com/articles/2019/08/29/1567093295295.html)
 * [博客更名](https://www.jinjianh.com/InkDP)
 * [《天才在左，疯子在右》章节摘录](https://www.jinjianh.com/articles/2019/08/23/1566551996115.html)
 * [《天才在左，疯子在右》阅读笔记](https://www.jinjianh.com/articles/2019/08/23/1566551837849.html)
@@ -29,6 +30,9 @@
 * [Docker导出mysql数据](https://www.jinjianh.com/articles/2019/06/11/1560267833958.html)
 * [go 语言圣经练习解答 -- 第三章](https://www.jinjianh.com/articles/2019/06/10/1560159392016.html)
 * [未来的路](https://www.jinjianh.com/articles/2019/06/07/1559921813174.html)
+
+### 热门
+
 * [CSS/Javascript实现Word Clock](https://www.jinjianh.com/articles/2019/06/02/1559477290334.html)
 
 
