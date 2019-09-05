@@ -20,7 +20,7 @@
 * [solo-nexmoe 图标详解](https://www.jinjianh.com/articles/2019/08/23/1566548785550.html)
 * [日刷leetcode--简单版（三）](https://www.jinjianh.com/leetcode3.html)
 * [20190809 TGIF](https://www.jinjianh.com/articles/2019/08/09/1565315193270.html)
-* [从零开始安装solo博客](https://www.jinjianh.com/articles/2019/08/06/1565021931775.html)
+* [从零开始安装 solo 博客](https://www.jinjianh.com/articles/2019/08/06/1565021931775.html)
 * [算法的时间复杂度计算](https://www.jinjianh.com/articles/2019/08/03/1564826524260.html)
 * [《追风筝的人》阅读笔记](https://www.jinjianh.com/articles/2019/07/30/1564419665414.html)
 * [日刷leetcode--简单版（二）](https://www.jinjianh.com/leetcode2.html)
