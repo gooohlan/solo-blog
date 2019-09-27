@@ -11,7 +11,9 @@
 ### 最新
 
 * [GO实现一个单链表](https://www.jinjianh.com/articles/2019/09/26/1569488898577.html)
+* [Go面试总结](https://www.jinjianh.com/articles/2019/09/25/1569402355322.html)
 * [一别两宽，各生欢喜](https://www.jinjianh.com/articles/2019/09/21/1569077915744.html)
+* [闲言碎语](https://www.jinjianh.com/articles/2019/09/19/1568902818001.html)
 * [日刷leetcode--简单版（五）](https://www.jinjianh.com/leetcode5.html)
 * [日刷leetcode--简单版（四）](https://www.jinjianh.com/leetcode4.html)
 * [《我的前半生》阅读笔记](https://www.jinjianh.com/articles/2019/08/31/1567227232395.html)
@@ -28,13 +30,13 @@
 * [《追风筝的人》阅读笔记](https://www.jinjianh.com/articles/2019/07/30/1564419665414.html)
 * [日刷leetcode--简单版（二）](https://www.jinjianh.com/leetcode2.html)
 * [日刷leetcode--简单版系列（目录篇）](https://www.jinjianh.com/leetcode.html)
-* [go 语言圣经练习解答 -- 第四章 (关闭)](https://www.jinjianh.com/articles/2019/06/12/1560331304695.html)
-* [日刷leetcode--简单版（一）](https://www.jinjianh.com/leetcode1.html)
 
 ### 热门
 
 * [go 语言圣经练习解答 -- 第三章](https://www.jinjianh.com/articles/2019/06/10/1560159392016.html)
 * [【go 语言圣经】练习答案 -- 目录篇 (关闭)](https://www.jinjianh.com/articles/2019/06/16/1560663440490.html)
+* [日刷leetcode--简单版（一）](https://www.jinjianh.com/leetcode1.html)
+* [go 语言圣经练习解答 -- 第四章 (关闭)](https://www.jinjianh.com/articles/2019/06/12/1560331304695.html)
 * [Docker导出mysql数据](https://www.jinjianh.com/articles/2019/06/11/1560267833958.html)
 * [CSS/Javascript实现Word Clock](https://www.jinjianh.com/articles/2019/06/02/1559477290334.html)
 * [未来的路](https://www.jinjianh.com/articles/2019/06/07/1559921813174.html)
