@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [日刷leetcode--简单版（六）](https://www.jinjianh.com/leetcode6.html)
 * [Navicat Premium for Mac 破解教程](https://www.jinjianh.com/articles/2019/10/24/1571890488789.html)
 * [迟来的9月总结](https://www.jinjianh.com/articles/2019/10/13/1570960015377.html)
 * [GO实现一个单链表](https://www.jinjianh.com/articles/2019/09/26/1569488898577.html)
@@ -29,7 +30,6 @@
 * [20190809 TGIF](https://www.jinjianh.com/articles/2019/08/09/1565315193270.html)
 * [从零开始安装 solo 博客](https://www.jinjianh.com/articles/2019/08/06/1565021931775.html)
 * [算法的时间复杂度计算](https://www.jinjianh.com/articles/2019/08/03/1564826524260.html)
-* [《追风筝的人》阅读笔记](https://www.jinjianh.com/articles/2019/07/30/1564419665414.html)
 
 ### 热门
 
@@ -40,6 +40,7 @@
 * [日刷leetcode--简单版系列（目录篇）](https://www.jinjianh.com/leetcode.html)
 * [Docker导出mysql数据](https://www.jinjianh.com/articles/2019/06/11/1560267833958.html)
 * [日刷leetcode--简单版（二）](https://www.jinjianh.com/leetcode2.html)
+* [《追风筝的人》阅读笔记](https://www.jinjianh.com/articles/2019/07/30/1564419665414.html)
 * [CSS/Javascript实现Word Clock](https://www.jinjianh.com/articles/2019/06/02/1559477290334.html)
 * [未来的路](https://www.jinjianh.com/articles/2019/06/07/1559921813174.html)
 
