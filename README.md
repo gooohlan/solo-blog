@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [2019年11月6日晨记](https://www.jinjianh.com/articles/2019/11/06/1572999448123.html)
 * [《许三观卖血记》阅读笔记](https://www.jinjianh.com/articles/2019/10/31/1572508975114.html)
 * [日刷leetcode--简单版（六）](https://www.jinjianh.com/leetcode6.html)
 * [Navicat Premium for Mac 破解教程](https://www.jinjianh.com/articles/2019/10/24/1571890488789.html)
@@ -29,10 +30,10 @@
 * [solo-nexmoe 图标详解](https://www.jinjianh.com/articles/2019/08/23/1566548785550.html)
 * [日刷leetcode--简单版（三）](https://www.jinjianh.com/leetcode3.html)
 * [20190809 TGIF](https://www.jinjianh.com/articles/2019/08/09/1565315193270.html)
-* [从零开始安装 solo 博客](https://www.jinjianh.com/articles/2019/08/06/1565021931775.html)
 
 ### 热门
 
+* [从零开始安装 solo 博客](https://www.jinjianh.com/articles/2019/08/06/1565021931775.html)
 * [【go 语言圣经】练习答案 -- 目录篇 (关闭)](https://www.jinjianh.com/articles/2019/06/16/1560663440490.html)
 * [go 语言圣经练习解答 -- 第三章](https://www.jinjianh.com/articles/2019/06/10/1560159392016.html)
 * [go 语言圣经练习解答 -- 第四章 (关闭)](https://www.jinjianh.com/articles/2019/06/12/1560331304695.html)
